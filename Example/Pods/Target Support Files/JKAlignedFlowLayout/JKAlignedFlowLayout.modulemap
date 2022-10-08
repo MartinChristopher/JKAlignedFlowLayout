@@ -1,0 +1,6 @@
+framework module JKAlignedFlowLayout {
+  umbrella header "JKAlignedFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

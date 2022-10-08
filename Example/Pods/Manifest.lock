@@ -1,0 +1,16 @@
+PODS:
+  - JKAlignedFlowLayout (0.0.1)
+
+DEPENDENCIES:
+  - JKAlignedFlowLayout (from `../`)
+
+EXTERNAL SOURCES:
+  JKAlignedFlowLayout:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JKAlignedFlowLayout: d290d2047942a203bd20f3032b8bec55dfe4d0c7
+
+PODFILE CHECKSUM: 77a09a03df9dfe7c6322f1ea61efee1c1785bc36
+
+COCOAPODS: 1.11.3
